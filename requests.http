@@ -1,0 +1,5 @@
+###
+GET https://localhost:5001/WeatherForecast
+
+###
+GET https://localhost:5001/info

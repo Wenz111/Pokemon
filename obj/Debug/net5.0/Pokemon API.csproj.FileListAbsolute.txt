@@ -1,0 +1,29 @@
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\appsettings.json
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Pokemon API.exe
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Pokemon API.deps.json
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Pokemon API.runtimeconfig.json
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Pokemon API.runtimeconfig.dev.json
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Pokemon API.dll
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\ref\Pokemon API.dll
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Pokemon API.pdb
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zuanwenang\_personal_dev\Pokemon API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.csproj.AssemblyReference.cache
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.AssemblyInfoInputs.cache
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.AssemblyInfo.cs
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.csproj.CoreCompileInputs.cache
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\staticwebassets\Pokemon API.StaticWebAssets.Manifest.cache
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\staticwebassets\Pokemon API.StaticWebAssets.xml
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\scopedcss\bundle\Pokemon API.styles.css
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.RazorTargetAssemblyInfo.cache
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.csproj.CopyComplete
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.dll
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\ref\Pokemon API.dll
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.pdb
+C:\Users\zuanwenang\_personal_dev\Pokemon API\obj\Debug\net5.0\Pokemon API.genruntimeconfig.cache
